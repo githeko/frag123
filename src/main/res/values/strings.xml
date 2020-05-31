@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Frag123</string>
+    <string name="example_of_simple_fragment">Example of Simple Fragment</string>
+    <string name="fragment_1">Fragment 1</string>
+    <string name="fragment_2">Fragment 2</string>
+    <string name="egerton_crest">Egerton Crest</string>
+</resources>
